@@ -18,6 +18,16 @@ section .container {
   width: 820px;
   margin: 0 auto;
 }
+.features .container img{
+	width: 100%;
+	height: auto;
+	max-width: 1000px;
+}
+.voices .container img{
+	width: 100%;
+	height: auto;
+	max-width: 1000px;
+}
 
 .footer .container {
   width: 820px;
