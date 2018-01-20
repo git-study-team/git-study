@@ -11,6 +11,11 @@ h2 {
   padding: 10px 20px;
 }
 
+h3 {
+  border-bottom: #ccc 1px solid;
+  padding: 10px 0;
+}
+
 .header .container {
   width: 820px;
   margin: 0 auto;
