@@ -18,8 +18,7 @@ h3 {
 
 .header .container {
   width: 820px;
-  margin: 0 auto;
-  height: 200px;
+  margin: 0 auto 10px;
   padding-top: 10px;
   color: orange;
   border-bottom: #ccc 4px solid;
