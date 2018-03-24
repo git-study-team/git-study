@@ -20,8 +20,22 @@ h3 {
   width: 820px;
   margin: 0 auto 10px;
   padding-top: 10px;
-  color: orange;
+  color: #666;
   border-bottom: #ccc 4px solid;
+  overflow: hidden;
+}
+
+.header .container h1 {
+  float: left;
+}
+
+.header .container ul {
+    float: right;
+    margin-top: 35px;
+}
+.header .container ul li {
+    display: inline-block;
+    margin-left: 20px;
 }
 
 section .container {
