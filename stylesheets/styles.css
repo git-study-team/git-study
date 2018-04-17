@@ -4,6 +4,10 @@ body {
   margin: 0;
   padding: 0;
 }
+h1 img {
+  width: 50px;
+  margin-right: 20px;
+}
 
 h2 {
   border-bottom: #ccc 1px solid;
