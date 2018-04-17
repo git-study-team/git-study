@@ -41,7 +41,9 @@ h3 {
   color: #000;
   text-decoration: none;
 }
-
+.container p {
+  margin: 20px auto 20px;
+}
 
 section .container {
   width: 820px;
