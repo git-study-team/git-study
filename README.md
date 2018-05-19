@@ -2,6 +2,6 @@
 
 Git勉強しよう会の資料です
 
-# 公式URL
+# 公式サイトリンク
 
-(https://git-study-team.github.io/git-study/)[https://git-study-team.github.io/git-study/]
+[公式サイト](https://git-study-team.github.io/git-study/)
