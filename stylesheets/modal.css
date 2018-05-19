@@ -2,7 +2,6 @@
 
 #modal {
     z-index: 10;
-    opacity: .5;
     display: none;
 }
 .modal_overlay {
@@ -15,8 +14,31 @@
     bottom: 0;
     left: 0;
     margin: auto;
+    opacity: .5;
 }
 
-.modal_item{
+.modal_item {
+    padding: 30px;
+    width: 500px;
+    height: 300px;
+    z-index: 100;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    background-color: yellow;
 
+}
+
+.modal_item img{
+    display: block;
+    width: 200px;
+    margin: 0 auto 30px auto;
+
+}
+
+.modal_detail p {
+    text-align: center;
 }
